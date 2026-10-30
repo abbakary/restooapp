@@ -1,0 +1,6 @@
+{
+  "name": "RestoERP - Multi-Site Restaurant Management Platform",
+  "description": "Enterprise modular Restaurant ERP platform covering Point of Sale, KDS, inventory & recipe costing, procurement, central kitchen production, finance, HR rostering, and multi-branch HQ controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
